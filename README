@@ -1,0 +1,42 @@
+            <footer>: Indica a seção do rodapé da página.
+
+            Classes do Tailwind CSS:
+
+            bg-gray-900: Define um fundo cinza escuro.
+
+
+            text-white: Altera a cor do texto para branco.
+
+            py-10: Adiciona espaçamento vertical (padding) de 10 unidades.
+            ------------------------------------------------------------------
+
+            <div>: Um contêiner que organiza o conteúdo do rodapé.
+
+            Classes do Tailwind CSS:
+
+            container: Centraliza o conteúdo com margens automáticas.
+
+            mx-auto: Margens horizontais automáticas para centralização.
+
+            flex: Usa o Flexbox para dispor os elementos em linha.
+
+            justify-around: Distribui o espaço entre os itens de forma uniforme.
+            -------------------------------------------------------------------
+
+            max-w-xs: Limita a largura máxima da seção.
+
+            <h3>: Título da seção.
+
+            <p>: Descrição breve (exemplo de texto).
+
+            Links de Redes Sociais: Usando ícones do Font Awesome (Facebook, Instagram, Twitter) com classes para aumentar o tamanho (text-2xl) e flexbox para alinhamento (flex e space-x-4).
+
+        ------------------------------------------------------------------------
+            Título (<h4>): Nome da seção.
+
+            Lista de Links (<ul>): Contém itens de navegação, como "Sobre", "Segurança", etc. Sem estilo de lista (list-none) e sem preenchimento (p-0).
+            
+            CATEGORIAS 
+
+            Similar à seção de "Informação", mas lista categorias de produtos, permitindo que os usuários encontrem rapidamente o que buscam.
+            
